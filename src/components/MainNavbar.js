@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import Navbar from 'react-bootstrap/Navbar';
 
-class Navbar extends Component {
+class MainNavbar extends Component {
     render() {
       
     }
   }
 
-export default Navbar;
+export default MainNavbar;
